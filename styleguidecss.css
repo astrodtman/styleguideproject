@@ -5,14 +5,13 @@ body {
 
   font-family: roboto, sans-serif
   }
-div{
+div.container {
   display: block;
   width: 1200px;
   height:100px;
   margin-bottom: 10px;
 }
-.container {
-  background-color: white;
+
 
 
   padding: 10px;
