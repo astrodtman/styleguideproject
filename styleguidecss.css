@@ -1,5 +1,22 @@
 body {
   background-color: white;
   text-align: left;
-  
+  margin: 0px, 10%;
+  }
+div{
+  display: block;
 }
+.container {
+  background-color: white;
+  text-align: left;
+  margin: 10px;
+  padding: 10px;
+  border: 2px solid black;
+}
+
+.color-container {
+  display: block;
+  width: 100%;
+}
+  
+  
