@@ -47,7 +47,10 @@ body {
   
 .font-container {
   display: block;
-  width: 400px;
+  width: 1200px;
   align: center
   background-color: white;
+}
+.platypi {
+  font-family: platypi, san-serif:
 }
