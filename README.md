@@ -1,4 +1,3 @@
-<!doctype HTML>
 <html>
   <head>
     <link rel="stylesheet" href="styleguidecss.css">
