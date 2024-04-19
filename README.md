@@ -36,7 +36,8 @@
     <div class="Container">
       <h2>Fonts</h2>
       <div class="font-container"></div>
-        <div class="
+        <div class="Playtipi"></div>
+          <p>The quick brown fox jumped over the lazy dog.</p>
     </div>
     <div class="Container">
       <h2>Element styling</h2>
