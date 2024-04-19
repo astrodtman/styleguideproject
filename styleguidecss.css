@@ -45,4 +45,8 @@ body {
   font-weight: bold;
 }
   
-  
+.font-container {
+  display: block;
+  width: 400px;
+  align: center
+  background-color: white;
