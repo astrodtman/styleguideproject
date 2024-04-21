@@ -1,0 +1,61 @@
+
+body {
+  display: block;
+  background-color: #f1e5e5;
+  text-align: left
+  font-family: roboto, sans-serif
+  }
+.container {
+  display: block;
+  width: 800px;
+  height:100px;
+  margin-bottom: 10px;
+}
+
+.color-container {
+  display: block;
+  width: 800px;
+  align: center;
+}
+
+.color-swatch {
+  display: inline-block;
+  width: 700px;
+  font-family: roboto, sans-serif;
+  min-height: 100px;
+  text-align: center;
+  border: 2px solid black;
+  margin-bottom: 10px;
+}
+
+.red {
+  background-color: red;
+  color: black;
+  font-weight: bold;
+} 
+.yellow {
+  background-color: yellow;
+  color: black;
+  font-weight: bold;
+}
+
+.blue {
+  background-color: blue;
+  color: black;
+  font-weight: bold;
+}
+  
+.font-container {
+  display: block;
+  width: 700px;
+  align: center
+  background-color: white;
+}
+.platypi {
+  font-family: platypi, san-serif;
+  
+}
+
+  
+
+
