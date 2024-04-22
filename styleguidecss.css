@@ -51,6 +51,11 @@ body {
   align: center
   background-color: white;
 }
+.font-sample {
+  display: inline-block;
+  width: 350px;
+  border: 2px solid black;
+  
 .platypi {
   font-family: platypi;
   
